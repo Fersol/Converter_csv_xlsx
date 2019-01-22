@@ -1,2 +1,6 @@
 # Converter_csv_xlsx
-Converter file from csv format to xlsx format
+Convert file from csv format to xlsx format
+Python script
+
+Usage: python Converter_csv_xplsx.py [--separator separator]
+default: separator = ','
